@@ -1,2 +1,2 @@
 # TomorrowVerse
-[TomorrowVerse.org](Tomorrowverse.org) - building tomorrow
+[TomorrowVerse.org](http://TomorrowVerse.org) - building tomorrow
